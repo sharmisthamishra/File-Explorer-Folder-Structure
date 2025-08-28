@@ -15,7 +15,7 @@ function App() {
 
   useEffect(() => {
     localStorage.setItem("folderData", JSON.stringify(folderData));
-  }, [folderData]);
+  }, [data]);
 
   const handleInsertNode = (folderId, item, isFolder) => {
     const finalTree = insertNode(folderData, folderId, item, isFolder);
