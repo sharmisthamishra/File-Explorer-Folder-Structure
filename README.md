@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+website link: https://folderly-missha.netlify.app/
+
+<img width="577" height="390" alt="image" src="https://github.com/user-attachments/assets/965532d1-444f-4dfb-9cfd-20721d0a087f" />
+
+
 1. creating file/folder
 2. managing file/folder
 
